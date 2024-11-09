@@ -1,0 +1,11 @@
+h1 {
+  color: blanchedalmond;
+}
+
+table, tr, td {
+  border: 2px, bisque solid;
+}
+.djangtwo {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
